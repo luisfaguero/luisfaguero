@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @luisfaguero
 - 👀 I’m interested in  adquirir conocimiento y poder compartirlo
--- 🌱 I’m currently learning  desarrollo web  me enfoco en backend y bd
-- 💞️ I’m looking to collaborate on  todo o que sea necesario colaborar
-- 📫 How to reach me  luchofede@hotmail.com
+-- 🌱 Actualmente estoy aprendiendo desarrollo web me enfoco en php
+mysql con conocimientos en git github 
+y aws 
+- 💞️ Busco colaborar en todo o que sea necesario
+- 📫 Como contactarme luchofede@hotmail.com
 
 <!---
 luisfaguero/luisfaguero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
